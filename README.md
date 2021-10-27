@@ -4,19 +4,18 @@
 
 -🔭 I’m looking to collaborate on JS and React projects.
 
-<div>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=koemyy&show_icons=true&theme=dracula"/>
 </div>
 
-<div>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koemyy&layout=compact&theme=dracula"/>
 </div>
 
 ### You cand find me in:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francinepns/)
-[<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@Koemy)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francinepns/)
+[<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francinepns/)
+[<img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />](https://replit.com/@Koemy)
 
 My e-mail: Francine.pns@gmail.com
 
