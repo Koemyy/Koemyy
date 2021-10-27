@@ -37,7 +37,7 @@
   <div align="center"> 💫 More About Me 💫</div>
 <br>
   <div align="center">
-<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=iduna123"/>
+    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=iduna123"/>
   </div>
 
 ### You cand find me in:
