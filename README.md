@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone, welcome to my profile! 👋
 
 -👩‍💻 My name is Francine, I'm systems analysis and development student, currently I'm studying JS because I wanna be a Front-end dev, my objective is learn React, Angular and Node.
 
