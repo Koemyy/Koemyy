@@ -32,6 +32,7 @@
   <div align="center"> 💫 What I'm Learning 💫</div>
   <br>
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fran-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 <br>
   <div align="center"> 💫 More About Me 💫</div>
