@@ -1,8 +1,8 @@
-### Hi everyone, welcome to my profile! 👋
+### Hi everyone, I'm Francine, welcome to my profile! 👋
 
--👩‍💻 My name is Francine, I'm systems analysis and development student, currently I'm studying JS because I wanna be a Front-end dev, my objective is learn React and TypeScript.
-
--🔭 I’m looking to collaborate on JS and React projects.
+- 👩‍💻 I'm systems analysis and development student, currently I'm studying React ;).
+- 💼 I'm working at [Croct](https://croct.com/)! (yaay)
+- 🔭 I’m looking to collaborate on TS and React projects.
 
 <div align="center"> 💫 My GitHub Stats 💫</div>
 <br>
