@@ -8,9 +8,6 @@
 <br>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=koemyy&show_icons=true&theme=dracula"/>
-</div>
-<br>
-<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koemyy&layout=compact&theme=dracula"/>
 </div>
 
@@ -36,14 +33,8 @@
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 <br>
-  <div align="center"> 💫 More About Me 💫</div>
-<br>
-  <div align="center">
-    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=iduna123"/>
-  </div>
 
 ### You cand find me in:
 
   <a href="https://www.linkedin.com/in/francinepns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://replit.com/@Koemy" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
 <a href="mailto:Francine.pns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
