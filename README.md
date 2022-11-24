@@ -7,8 +7,8 @@
 <div align="center"> 💫 My GitHub Stats 💫</div>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=koemyy&show_icons=true&theme=dracula"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koemyy&layout=compact&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=koemyy&show_icons=true&theme=dracula&card_width=400"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koemyy&layout=compact&theme=dracula&card_width=320"/>
 </div>
 
 <br>
