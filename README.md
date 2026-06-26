@@ -1,7 +1,7 @@
 ### Hi everyone, I'm Francine, welcome to my profile! 👋
 
 - 👩‍💻 I'm systems analysis and development student, currently I'm studying Next ;).
-- 💼 I'm working at [Croct](https://croct.com/)! (yaay)
+- 💼 I'm working at [Mindsight](https://mindsight.com.br/)! (yaay)
 - 🔭 I’m looking to collaborate on TS and React projects.
 
 <div align="center"> 💫 My GitHub Stats 💫</div>
